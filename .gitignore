@@ -1,1 +1,4 @@
 .DS_Store
+.ipynb_checkpoints/
+module_1/.ipynb_checkpoints/
+module_1/Movies_IMBD_v4.1_TEMPLATE.ipynb
